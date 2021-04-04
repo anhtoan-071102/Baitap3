@@ -1,0 +1,23 @@
+B.1 III
+B.2 I
+B.3 II
+B.4 I
+B.5 III
+B.6 III
+B.7 III
+B.8 IV
+B.9 IV
+B.10 III, IV
+B.11 III
+B.12 IV
+B.13 III
+B.14 II
+B.15 I va II
+B.16 I
+B.17 II
+B.18  III 
+B.19 III
+B.20 III 
+
+
+
